@@ -1,0 +1,29 @@
+div {
+    border-left: 5px dashed purple;
+    border-right:5px dashed green;
+    border-top: 5px dashed red; width:60%;
+    border-bottom: 5px dashed blue;width:60%;
+    padding: 5px;
+    border-radius: 10px;
+}
+table{
+  width: 100%;
+  border-collapse: collapse;
+  background-clip: padding-box; 
+ }
+  
+ th {
+    background-color: #409cc0;
+    text-align: left;
+   color: #44a00e ;
+   font-size: xx-large;
+ }
+td{
+    background-color: #ee6c52;
+    color: #e3b05a;
+    font-size: x-large;
+ }
+th:hover {
+  background-color:#fffd52;
+  color:black;
+}
