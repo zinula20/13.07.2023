@@ -1,0 +1,36 @@
+
+#rectangle-1{
+    background: yellow;
+    height: 250px;
+    width: 150px;
+    border: 2px solid black;
+    position: absolute;
+    top: 40%;
+    left: 30%;
+    font-size: x-large;
+}
+#rectangle-2{
+    background: yellow;
+    height: 250px;
+    width: 150px;
+    border: 2px solid black;
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    font-size: x-large;
+}
+#rectangle-3{
+    background: yellow;
+    height: 250px;
+    width: 150px;
+    border: 2px solid black;
+    position: absolute;
+    top: 40%;
+    left: 70%;
+    font-size: large;
+}
+ul{
+  border: 3px solid red;
+  background-color: blue;
+  margin-top: 0px;
+}
